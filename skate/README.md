@@ -1,4 +1,4 @@
-Something I have to achieve if someday I cross Tony Hawk's and he yell me to do a kickflip.  
+Something I have to achieve if someday I cross Tony Hawk and he order me to do a kickflip.  
 
 ## Do a kickflip roadmap
 
