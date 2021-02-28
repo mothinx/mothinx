@@ -1,4 +1,4 @@
-# Hello World.
+# Hello Friend.
 
 You will find here my public reference materials.  
 It will consist of a bunch of notes / logs and maybe some random things. I was tired to see my old used notebooks disappeared over time.
