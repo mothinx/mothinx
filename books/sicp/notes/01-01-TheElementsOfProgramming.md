@@ -114,3 +114,25 @@ if only two case, keyword ```if```
 ```
 (if <preduicate> <consequent> <alternative>)
 ```
+
+##  1.1.8 Procedures as Black-Box Abstractions
+
+block structure:
+``` 
+(define (sqrt x)
+      (define (sqrt-iter guess)
+            (if (good-enough? guess (improve guess x))
+                  guess
+                  (sqrt-iter (improve guess x) x)))
+      (define (improve guess)
+            (average guess (/ x guess)))
+
+      (define (average y) 
+            (/ (+ x y) 2))
+
+      (define (good-enough? previous-guess guess)
+             < (abs (/ (- guess previous-guess) guess)) 0.0000000001))
+
+  
+      (sqrt-iter 1.0))
+```

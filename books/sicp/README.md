@@ -1,4 +1,4 @@
 # Structure and Interpretation of Computer Programs
 
-Here is my notes from studying this book.
+Notes and exercices
 [HTML](https://sarabander.github.io/sicp/)
