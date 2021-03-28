@@ -5,5 +5,6 @@ It will consist of a bunch of notes / logs and maybe some random things. I was t
 
 # Work.
 On permament contact as a fullstack engineer.
+
 🧾 My full curriculum vitae is available on [Linkedin](https://www.linkedin.com/in/julien-gracia/)  
 
