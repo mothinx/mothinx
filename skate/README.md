@@ -10,7 +10,7 @@ Something I have to achieve if someday I cross Tony Hawk and he order me to do a
 - [ ] BS 180
 - [ ] Pop shoveit
 - [ ] Kickflip
-- [ ] Manual
+- [x] Manual
 - [ ] Nose manual
 
 ### Transition
